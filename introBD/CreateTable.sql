@@ -1,0 +1,5 @@
+CREATE TABLE beer(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(200) NOT NULL,
+    alcohol  DECIMAL(3,1) NOT NULL
+);
