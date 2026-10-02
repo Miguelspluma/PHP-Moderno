@@ -1,0 +1,14 @@
+{
+    "name": "masp/phpmoderno",
+    "autoload": {
+        "psr-4": {
+            "Masp\\Phpmoderno\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mike"
+        }
+    ],
+    "require": {}
+}
