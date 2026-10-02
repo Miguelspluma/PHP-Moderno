@@ -1,0 +1,17 @@
+{
+    "name": "luismy/composer",
+    "autoload": {
+        "psr-4": {
+            "Luismy\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mike"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^3.14",
+        "phpoffice/phpspreadsheet": "^5.10"
+    }
+}
