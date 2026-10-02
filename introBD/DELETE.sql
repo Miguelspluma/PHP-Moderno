@@ -1,0 +1,2 @@
+DELETE FROM beer
+WHERE id = 5; 
